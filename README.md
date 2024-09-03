@@ -6,7 +6,7 @@ Check out the talk here: [Caleb Porzio's LaraconUS 2024 Talk](https://www.youtub
 
 ## 🚀 Quick Start
 
-Add slide files to `app/Livewire/slides`. Each slide is a PHP file returning an HTML string.
+Add slide files to the `app/Livewire/slides` directory. Each slide is a PHP file that returns an HTML string. You can also use Blade components or Livewire components, just like when you are working in a Blade file.
 
 Example:
 
