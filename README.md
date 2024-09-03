@@ -2,7 +2,7 @@
 
 An interactive slides presentation project built with Laravel Livewire, inspired by Caleb Porzio's talk at LaraconUS 2024.
 
-Inspired by [Caleb Porzio's LaraconUS 2024 Talk](https://www.youtube.com/watch?v=31pBMi0UdYE)
+Check out the talk here: [Caleb Porzio's LaraconUS 2024 Talk](https://www.youtube.com/watch?v=31pBMi0UdYE)
 
 ## 🚀 Quick Start
 
@@ -25,6 +25,6 @@ return <<<'HTML'
 HTML;
 ```
 
-## Demo
+## Sample
 
 ![demo](./demo.png)
