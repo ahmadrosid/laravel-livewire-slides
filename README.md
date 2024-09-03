@@ -1,4 +1,4 @@
-# Laravel Livewire Slide
+# Laravel Livewire Slides
 
 An interactive slides presentation project built with Laravel Livewire, inspired by Caleb Porzio's talk at LaraconUS 2024.
 
