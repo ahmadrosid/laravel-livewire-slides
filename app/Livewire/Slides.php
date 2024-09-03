@@ -11,12 +11,6 @@ class Slides extends Component
     #[\Livewire\Attributes\Url]
     public $slide = 1;
 
-    public $selectCode = <<<'HTML'
-    <div>
-        Hello world!!!
-    </div>
-    HTML;
-
     #[Computed]
     public function slides()
     {
