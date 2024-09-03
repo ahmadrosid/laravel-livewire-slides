@@ -25,6 +25,6 @@ return <<<'HTML'
 HTML;
 ```
 
-## Sample
+## Demo
 
 ![demo](./demo.png)
