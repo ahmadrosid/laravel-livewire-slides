@@ -28,3 +28,7 @@ HTML;
 ## Demo
 
 ![demo](./demo.png)
+
+## Hire me!
+
+I'm available for freelance work. Feel free to [contact me](mailto:alahmadrosid@gmail.com) to discuss your project.
